@@ -694,6 +694,7 @@
 * [imverter](https://www.imverter.com/)
 * [Raw Pics](https://raw.pics.io/)
 * [Converseen](https://converseen.fasterland.net/)
+* [HeyResizer](https://heyresizer.com/)
 
 ***
 
